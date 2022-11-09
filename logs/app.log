@@ -1,0 +1,25 @@
+2022-11-09 15:35:36,773 DEBUG   Controllers.UserController - returning instance succeed
+2022-11-09 15:35:36,824 DEBUG   Controllers.UserController - create user failed
+2022-11-09 15:35:36,825 DEBUG   Client.Client - User created worked!
+2022-11-09 16:23:09,565 DEBUG   Controllers.UserController - validation was occurred
+2022-11-09 16:23:09,567 DEBUG   Controllers.UserController - returning instance succeed
+2022-11-09 16:23:09,569 DEBUG   Services.UserService - instance found
+2022-11-09 16:23:09,594 DEBUG   Services.UserService - user is created
+2022-11-09 16:23:09,607 INFO    Repository.UserRepository - file created
+2022-11-09 16:23:09,607 INFO    Services.UserService - User is created!
+2022-11-09 16:23:09,607 DEBUG   Controllers.UserController - create user failed
+2022-11-09 16:23:09,611 DEBUG   Client.Client - User created worked!
+2022-11-09 16:23:58,841 DEBUG   Controllers.UserController - returning instance succeed
+2022-11-09 16:23:58,841 ERROR   Controllers.UserController - User cannot be created.
+2022-11-09 16:23:58,842 DEBUG   Client.Client - User created worked!
+2022-11-09 16:24:53,877 DEBUG   Controllers.UserController - returning instance succeed
+2022-11-09 16:24:53,877 DEBUG   Services.UserService - instance found
+2022-11-09 16:24:53,878 DEBUG   Services.UserService - user is created
+2022-11-09 16:24:53,879 INFO    Repository.UserRepository - file created
+2022-11-09 16:24:53,879 INFO    Services.UserService - User is created!
+2022-11-09 16:24:53,879 DEBUG   Controllers.UserController - create user failed
+2022-11-09 16:24:53,879 DEBUG   Client.Client - User created worked!
+2022-11-09 16:25:01,601 DEBUG   Controllers.UserController - returning instance succeed
+2022-11-09 16:25:01,606 ERROR   Controllers.UserController - token doesn't exists
+2022-11-09 16:25:01,606 DEBUG   Services.UserService - instance found
+2022-11-09 16:25:01,607 WARN    Repository.UserRepository - No user with the following email address
